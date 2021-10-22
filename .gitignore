@@ -3,3 +3,5 @@
 /target/
 /target/scala-2.13/classes/
 /.idea/scala_settings.xml
+/.idea/workspace.xml
+/.idea/sonarlint/issuestore/
