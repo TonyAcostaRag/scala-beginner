@@ -3,7 +3,7 @@ package playground
 object Playground {
   def main(args: Array[String]): Unit = {
     println("I'm ready to learn Scala")
-    println("change 2")
+    println("change 3")
   }
   
 }
